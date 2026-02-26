@@ -1,0 +1,21 @@
+{
+    "name": "Saif Ullah Awan | Portfolio",
+    "short_name": "Saif.dev",
+    "description": "Professional Data Systems & AI Engineering Portfolio",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#020818",
+    "theme_color": "#0B1121",
+    "icons": [
+        {
+            "src": "/logo.jpeg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "/logo.jpeg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ]
+}
